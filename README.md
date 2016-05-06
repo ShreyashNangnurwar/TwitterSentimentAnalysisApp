@@ -4,6 +4,7 @@ Twitter Sentiment Analysis WebApp
   + Trained using dataset of 22K Tweets(Positive, negative, neutral).
   + Classifies into positive, negative and neutral category.
   + Shows Graphical output.
+  + It has a web based UI which is created using semantic-ui.
 
 How to setup?
   + Download the project and open in VS2015.
