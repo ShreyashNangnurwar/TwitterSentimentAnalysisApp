@@ -1,0 +1,8 @@
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\bin\Debug\tsa-DAL.dll
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\bin\Debug\tsa-DAL.pdb
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\obj\Debug\tsa-DAL.csprojResolveAssemblyReference.cache
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\obj\Debug\tsa-DAL.dll
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\obj\Debug\tsa-DAL.pdb
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\bin\Debug\tsa-Model.dll
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\bin\Debug\tsa-Model.pdb
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-DAL\bin\Debug\tsa-DAL.dll.config

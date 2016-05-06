@@ -1,0 +1,12 @@
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-BL.dll
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-BL.pdb
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\obj\Debug\tsa-BL.csprojResolveAssemblyReference.cache
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\obj\Debug\tsa-BL.dll
+c:\users\shreya$h\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\obj\Debug\tsa-BL.pdb
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\LinqToTwitter.dll
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-DAL.dll
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-Model.dll
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\System.Web.Mvc.dll
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-DAL.pdb
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\tsa-Model.pdb
+C:\Users\SHREYA$H\documents\visual studio 2015\Projects\tsa-webapp\tsa-BL\bin\Debug\System.Web.Mvc.xml
