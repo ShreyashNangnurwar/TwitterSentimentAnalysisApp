@@ -16,3 +16,4 @@ How to setup?
 To-Do
  + Train over larger dataset
  + Show results across various graph types.
+ + Adding project to jenkins build
